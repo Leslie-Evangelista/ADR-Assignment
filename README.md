@@ -1,10 +1,3 @@
-# Decision record template by Michael Nygard
-
-This is the template in [Documenting architecture decisions - Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
-You can use [adr-tools](https://github.com/npryce/adr-tools) for managing the ADR files.
-
-In each ADR file, write these sections:
-
 # Architectural Decisions: Reseponse to Scenario 1
 
 ## Status
@@ -27,6 +20,24 @@ A retail company wants to create an app that enables customers to browse and pur
 ## Decision
 
 ### Platform Selection: 
+
+#### Reason:
+
+### UI Framework
+
+#### Reason:
+
+### Backend Language 
+
+#### Reason: 
+
+### Permissions 
+
+#### Reason:
+
+### Data Storage
+
+### Additional Frameworks or Technology Stacks
 
 ## Consequences
 
